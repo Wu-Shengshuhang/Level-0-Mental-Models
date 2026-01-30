@@ -1,0 +1,33 @@
+1.
+“像这类‘存储器-内存’问题的解答大都使用类比法：‘内存就好比你的办公桌，而存储器就好比你的文件柜。’
+就问题本身而言，它的确给出了满意的回答。
+但我对此答案并不满意，主要原因在于这个答案将计算机的体系结构与办公室的结构等同起来，但是内存与存储器的区别其实是在逻辑层面上的，它体现着计算机体系结构的实际需求与存储器客观性能之间的矛盾，
+简单地说就是我们找不到一种同时具备这两种存储器所有优点的存储媒介，这些优点就包括存储速度块，存储容量大，非易失性等等。
+今天的计算机都采用‘冯·诺依曼体系结构’五十年来它一直是计算机体系结构的主导，而内存与存储器的区分也正是由于这种体系结构的不足所导致的。”
+
+标注：
+关于这一段，我明白了一个事实。
+如今"存储器-内存"并非计算机结构的最优解，它只是以"冯·诺依曼体系结构"而构建出来的机器，
+由上文中作者导读中“大道至简”的概念，可推断，对于"存储器-内存"结构下的计算机，我们仍有很大的改进与化简的空间，
+在新的结构之下，计算机应当存储速度块，存储容量大，非易失性等，最主要的是极简与合乎客观自然规律，
+如人类进化出聪慧思辨的大脑，狮子进化出进攻雄猛的獠牙，鸟儿进化出翱翔天际的翅膀一般，
+计算机也应当进化出它的极致之道，和这个世界上任何一个事物一样顺应自然客观的历史规律与必然性。
+
+Most explanations for questions like “memory vs. storage” use analogy: “Memory is like your desk, while storage is like your filing cabinet.”
+As far as the question itself is concerned, this does provide a satisfactory answer.
+However, I am not entirely satisfied with this answer, mainly because it equates computer architecture with the structure of an office. 
+In fact, the distinction between memory and storage exists at the logical level—it reflects the tension between the actual requirements of computer architecture and the objective performance characteristics of storage devices.
+Simply put, there is no single storage medium that simultaneously possesses all the advantages of these two types of storage, including fast access speed, large capacity, non-volatility, and so on.
+Modern computers all adopt the “von Neumann architecture,” which has dominated computer architecture for the past fifty years. 
+The distinction between memory and storage is precisely a consequence of the limitations inherent in this architecture.
+
+Annotation:
+From this paragraph, I understand one fact:
+Today’s “memory-storage” design is not the optimal solution for computer architecture; it is merely a machine built upon the Von Neumann architecture.
+From the author’s introduction earlier, emphasizing the concept of “simplicity in great principles,” one can infer that 
+there is still significant room for improvement and simplification under the “memory-storage” structure.
+Under a new architecture, computers should ideally have high-speed memory, large storage capacity, non-volatility, and—most importantly—extreme simplicity in harmony with objective natural laws. 
+Just as humans evolved intelligent and reflective brains, lions evolved powerful predatory fangs, and birds evolved wings to soar the skies, 
+computers too should evolve toward their ultimate form, following the natural objective historical laws and inevitabilities that govern everything in this world.
+
+2026/1/30  23：32
